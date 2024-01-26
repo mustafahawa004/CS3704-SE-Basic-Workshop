@@ -6,4 +6,4 @@ while (x <= 20):
         print("Fizz")
     if x % 5 == 0:
         print("Buzz")
-    x+1
+    x+=1
