@@ -1,0 +1,2 @@
+My favorite programming language is Python as it is pretty simple to understand and is utilized by a lot of different softwares like React, Node.js, etc.
+I am actually more experienced in Java than in Python but I like Python more.
